@@ -1,0 +1,23 @@
+{
+  "name": "mongoose_model",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YiZhang-Paul/Snooker_Data_Mongoose_Model.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YiZhang-Paul/Snooker_Data_Mongoose_Model/issues"
+  },
+  "homepage": "https://github.com/YiZhang-Paul/Snooker_Data_Mongoose_Model#readme",
+  "dependencies": {
+    "mongoose": "^5.3.7"
+  }
+}
