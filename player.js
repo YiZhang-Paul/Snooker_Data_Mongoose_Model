@@ -17,7 +17,8 @@ const schema = new mongoose.Schema({
     twitter: String,
     image: String,
     turned_pro: Number,
-    last_season_played: Number
+    last_season_played: Number,
+    active_years: Array
 })
 
 module.exports = mongoose.model('Player', schema);
